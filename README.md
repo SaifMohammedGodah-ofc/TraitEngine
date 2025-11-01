@@ -1,21 +1,16 @@
-# 🧩 TraitEngine
-
-> **Layer-based NFT Generator** — Create unique collections with full rarity control, no limits, and zero paywalls.
-
-![TraitEngine Banner](images/banner.png)
-
----
-
-## 🚀 Overview
+# TraitEngine
 
 **TraitEngine** is a fully customizable NFT generation system built for creators, developers, and studios.  
 It combines **layer-based image compositing**, **rarity weighting**, and **metadata export** — all in a clean, offline Python app.
 
 Whether you’re building a small art drop or a full generative collection, TraitEngine gives you total control without ads, cloud limits, or subscriptions.
 
+![TraitEngine Banner](images/1.png)
+
+> "A fully customizable NFT generation system for creating unique, weighted trait collections. NO  payments, No ads, NO BS."
 ---
 
-## ✨ Features
+## Features
 
 - 🎨 **Layer System:** Add multiple layers and upload transparent PNGs for each trait.  
 - ⚖️ **Rarity Control:** Assign custom weights (%) to each item.  
@@ -29,13 +24,12 @@ Whether you’re building a small art drop or a full generative collection, Trai
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Component | Library |
 |------------|----------|
 | Core Image Engine | [Pillow (PIL)](https://python-pillow.org/) |
 | GUI (Option A) | [PySide6 (Qt for Python)](https://doc.qt.io/qtforpython/) |
-| GUI (Option B) | [Tkinter](https://docs.python.org/3/library/tkinter.html) *(built-in)* |
 | Metadata & Logic | `json`, `hashlib`, `os`, `random`, `dataclasses` *(standard libs)* |
 
 ---
