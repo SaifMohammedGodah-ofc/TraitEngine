@@ -38,5 +38,5 @@ Whether you’re building a small art drop or a full generative collection, Trai
 
 Clone this repo:
 ```bash
-git clone https://github.com/<your-username>/TraitEngine.git
+git clone https://github.com/<SaifMohammedGodah-ofc>/TraitEngine.git
 cd TraitEngine
